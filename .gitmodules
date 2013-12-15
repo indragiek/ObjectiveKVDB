@@ -1,3 +1,0 @@
-[submodule "kvdb"]
-	path = kvdb
-	url = git@github.com:dinhviethoa/kvdb.git
