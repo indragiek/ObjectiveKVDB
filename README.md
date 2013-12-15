@@ -1,7 +1,7 @@
 ## ObjectiveKVDB
 ### Objective-C wrapper for [kvdb](https://github.com/dinhviethoa/kvdb)
 
-ObjectiveKVDB is a super simple Objective-C wrapper for @dinhviethoa's kvdb, a key-value store written in C.
+ObjectiveKVDB is a super simple Objective-C wrapper for [@dinhviethoa](http://github.com/dinhviethoa)'s kvdb, a key-value store written in C.
 
 #### Example Usage
 
